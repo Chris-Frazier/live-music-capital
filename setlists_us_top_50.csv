@@ -1,0 +1,51 @@
+rank,city,stateCode,countryCode,total
+1,New City,NY,US,110260
+2,Los Angeles,CA,US,95782
+3,Chicago,IL,US,65257
+4,Boston,MA,US,37753
+5,Philadelphia,PA,US,35278
+6,Las Vegas,NV,US,31671
+7,Atlanta,GA,US,28563
+8,Seattle,WA,US,28404
+9,Austin,TX,US,28206
+10,Minneapolis,MN,US,24730
+11,Phoenix,AZ,US,24406
+12,Washington,DC,US,22398
+13,Indianapolis,IN,US,21184
+14,Portland,OR,US,20803
+15,Cleveland,OH,US,20725
+16,Houston,TX,US,20476
+17,Pittsburgh,PA,US,18837
+18,Baltimore,MD,US,18723
+19,New Orleans,LA,US,18355
+20,West Hollywood,CA,US,16744
+21,Orlando,FL,US,15625
+22,Tampa,FL,US,15240
+23,Buffalo,NY,US,14220
+24,Columbus,OH,US,13660
+25,Salt Lake City,UT,US,12532
+26,Jersey City,NJ,US,12111
+27,Miami,FL,US,11693
+28,Cincinnati,OH,US,11616
+29,Fort Lauderdale,FL,US,9636
+30,Charlotte,NC,US,9633
+31,Louisville,KY,US,9424
+32,San Antonio,TX,US,9208
+33,Providence,RI,US,8617
+34,Cambridge,MA,US,7854
+35,Anaheim,CA,US,7290
+36,Berkeley,CA,US,7127
+37,Birmingham,AL,US,6793
+38,Raleigh,NC,US,6777
+39,Richmond,VA,US,6317
+40,Memphis,TN,US,6218
+41,Tempe,AZ,US,6067
+42,Hartford,CT,US,5928
+43,Omaha,NE,US,5911
+44,Jacksonville,FL,US,5870
+45,Albuquerque,NM,US,5578
+46,Oklahoma City,OK,US,5558
+47,Tucson,AZ,US,5293
+48,San Jose,CA,US,5138
+49,Grand Rapids,MI,US,5027
+50,California City,CA,US,4776
